@@ -5,4 +5,4 @@ This is my first web site on github
 
 I'll share my ideas and code.
 
-Day day up!
+Wish day day up!
